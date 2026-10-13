@@ -1,0 +1,24 @@
+{
+  "phase": "0",
+  "environment": {
+    "cloud_shell": true
+  },
+  "python": {
+    "version": "3.12.3",
+    "ok": true
+  },
+  "gcloud": {
+    "account": "Zhoutianbo.Liu@eurecom.fr",
+    "project": "project-01037496-8ac0-493f-8f7",
+    "error": null
+  },
+  "docker": {
+    "version": "Docker version 29.8.2, build 7fc2dff",
+    "present": true
+  },
+  "git": {
+    "remote": "https://github.com/LIU-Zhoutianbo/CLOUDS.git",
+    "is_github": true,
+    "slug": "LIU-Zhoutianbo/CLOUDS"
+  }
+}
