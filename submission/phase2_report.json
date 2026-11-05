@@ -1,0 +1,30 @@
+{
+  "phase": "2",
+  "environment": {
+    "colab": true
+  },
+  "attention": {
+    "naive_ms": 307.601,
+    "vectorized_ms": 12.001,
+    "speedup": 25.63
+  },
+  "threads": {
+    "1": 2218.578,
+    "2": 2317.217,
+    "4": 2265.765,
+    "8": 2601.715
+  },
+  "devices": {
+    "cpu_ms": 458405.2,
+    "gpu_ms": 12626.0
+  },
+  "training": {
+    "steps": 2000,
+    "final_loss": 1.4502,
+    "param_count": 4935680
+  },
+  "sample": "\nNor by the forst to and, of my Forgeth,\nThe sweet on do their goardl this much o' womand,\nFrom the edem becond of the bother that,\nTue any love have predune\nHasting the just of bestay left will druwd ",
+  "model": {
+    "gcs_url": "https://storage.googleapis.com/project-01037496-8ac0-493f-8f7-eurecomgpt/model.safetensors"
+  }
+}
